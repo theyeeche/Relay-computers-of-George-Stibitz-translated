@@ -33,16 +33,15 @@ Decimal-digit       Relays
 9	                10	  10000
   貝爾實驗室稱此系統為“二元”表示法，因為繼電器的重點為一或五。 實際上，它不是這些數字基礎的組合； 而是一個七位混合十進制代碼。 所有的貝爾實驗室中繼計算機都以十進制算法基礎。 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。 另一個電路檢查了每個組中只有一個繼電器的接通狀態，雖然某些異常組合可能無法檢測到，但這防止了兩個單獨的錯誤相互抵消。
 
-
-
-   
-   
-   
-   
-   
-
-
-
-
-relay diodes  pointer-transister  tobacco-tin arithmetic  interim filter  thesis  multiposition multipole unduly analog interpolation
-sophisticated
+relay 中繼
+diodes 二極管
+pointer-transister 指針轉換
+arithmetic 算術 
+interim filter 臨時過濾器
+thesis 論文
+multiposition 多位置
+multipole 多極
+unduly 過分地
+analog 類比
+interpolation 插補
+sophisticated 複雜的
